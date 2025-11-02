@@ -8,12 +8,12 @@ const Contact = () => {
     {
       icon: <Phone className="h-6 w-6" />,
       title: 'Phone',
-      details: '+91 894859858'
+      details: '+91 8004635705'
     },
     {
       icon: <Mail className="h-6 w-6" />,
       title: 'Email',
-      details: 'qualtspire@hotmail.com'
+      details: 'karankaul02@gmail.com'
     },
     {
       icon: <MapPin className="h-6 w-6" />,
