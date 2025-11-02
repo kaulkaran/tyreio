@@ -12,7 +12,7 @@ const Footer = () => {
             <h3 className="text-xl font-bold mb-4">Veron</h3>
             <p className="text-gray-400">Empowering businesses through innovative IT solutions since 2020.</p>
             <div className="flex space-x-4">
-              <a href="https://linkedin.com" className="hover:text-blue-400 transition-colors">
+              <a href="https://www.linkedin.com/in/karan-k-302a43349" className="hover:text-blue-400 transition-colors">
                 <Linkedin size={20} />
               </a>
               <a href="https://twitter.com" className="hover:text-blue-400 transition-colors">
